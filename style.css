@@ -1,0 +1,14 @@
+h1,h2{
+    color: #a0b179;
+}
+h3{
+    color: #02ba26;
+}
+h4{
+    color: #10836a;
+}
+.container {
+    text-align: center;
+    
+    border: 1px solid;
+  }
